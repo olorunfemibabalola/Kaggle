@@ -10,9 +10,11 @@ I use this table to keep track of which modules I have mastered and the specific
 
 | Course Name | Status | Key Skills / Tools | Certificate |
 | :--- | :---: | :--- | :---: |
+| **Intro to Programming** | ✅ | Lists, Dicts, List Comprehensions | [Link](#) |
 | **Python** | ✅ | Lists, Dicts, List Comprehensions | [Link](#) |
 | **Intro to Machine Learning** | ✅ | Random Forests, MAE, Model Validation | [Link](#) |
 | **Pandas** | ✅ | DataFrames, Grouping, Indexing | - |
+| **Data Cleaning** | ✅ | DataFrames, Grouping, Indexing | - |
 | **Data Visualization** | 📅 | Seaborn, Heatmaps, Line Charts | - |
 | **Intermediate ML** | ✅ | Pipelines, Cross-Validation, XGBoost | - |
 | **Intro to SQL** | 📅 | SELECT, JOIN, BigQuery | - |
