@@ -1,1 +1,1 @@
-Python Tutoria
+Python Tutorial
